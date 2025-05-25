@@ -1,13 +1,13 @@
 {
   "name": "com.yici.toolkit",
   "version": "1.0.0",
-  "displayName": "Unity Event Framework",
-  "description": "Some small tools of the framework type.",
+  "displayName": "Yici Toolkit",
+  "description": "A collection of lightweight and reusable Unity framework tools.",
   "unity": "2021.3",
   "author": {
-    "name": "yici",
+    "name": "Yici",
     "email": "2359560991@qq.com"
   },
-  "keywords": [ "tool", "framework", "unity" , "kit"],
+  "keywords": [ "toolkit", "framework", "event", "utility", "unity" ],
   "license": "MIT"
 }
